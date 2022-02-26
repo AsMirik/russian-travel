@@ -1,0 +1,27 @@
+.cover__background {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__background {
+    margin-left: -48px;
+    margin-right: -48px;
+    max-width: calc(100% + 96px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__background {
+    margin-left: -24px;
+    margin-right: -24px;
+    max-width: calc(100% + 48px);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__background {
+    margin-left: -16px;
+    margin-right: -16px;
+    max-width: calc(100% + 32px);
+  }
+}
