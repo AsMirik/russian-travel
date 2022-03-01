@@ -10,3 +10,7 @@
 * CSS
 * BEM
 * normalize.css
+
+-----
+
+[Ссылка на проект](https://asmirik.github.io/russian-travel/)

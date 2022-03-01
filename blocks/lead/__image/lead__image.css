@@ -1,20 +1,20 @@
 .lead__image {
   margin: 0 auto;
-  max-width: 100%;
+  width: 100%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .lead__image {
     margin-left: -24px;
     margin-right: -24px;
-    max-width: calc(100% + 48px);
+    width: calc(100% + 48px);
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .lead__image {
     margin-left: -16px;
     margin-right: -16px;
-    max-width: calc(100% + 32px);
+    width: calc(100% + 32px);
   }
 }

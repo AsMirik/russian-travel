@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../blocks/root/root.css);
+@import url(../blocks/fonts/fonts.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/container/container.css);
@@ -35,6 +35,7 @@
 @import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
